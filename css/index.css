@@ -27667,3 +27667,6 @@ div#runtime {
 #algolia-search .ais-SearchBox-loadingIndicator {
   display: none;
 }
+#page-header.not-home-page {
+  background-color: #5a91f7;
+}
