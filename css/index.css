@@ -10884,6 +10884,7 @@ h1.page-title + .tag-cloud-list {
 }
 #page-header.not-home-page {
   height: 400px;
+  background-color: #5A91F7;
 }
 @media screen and (max-width: 768px) {
   #page-header.not-home-page {
