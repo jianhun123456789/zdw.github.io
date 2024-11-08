@@ -10909,7 +10909,7 @@ h1.page-title + .tag-cloud-list {
   -ms-transition: 0.6s;
   transition: 0.6s;
   overflow: hidden;
-  background-color: transparent;
+  background-color: #5A91F7;
 }
 #page-header.post-bg #nav {
   -webkit-transition: all 0.5s, border 0.3s;
